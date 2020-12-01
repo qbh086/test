@@ -1,19 +1,2 @@
 # test
 测试一下rebase和merge命令的项目
-
-### 哈哈哈哈——主分支
-
-### 不是吧不是吧
-### origin dyl
-
-- hhhhh
-- 测试2
-- 最后一次测试啦啦啦啦
-
-### origin main 
-
-- 思路整理
-
-### origin dyl
-
-- 最后补充两句这样
